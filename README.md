@@ -11,3 +11,4 @@
 
 ![](https://hit.yhype.me/github/profile?user_id=13668634)
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ryanthetechman&cover_image=false&theme=default&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=ryanthetechman&redirect=true)
+[![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=RyanTheTechMan)](https://www.last.fm/user/RyanTheTechMan)
